@@ -1,5 +1,9 @@
 # Overleaf Templates for IIIT Allahabad Students
 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/atharva-gadekar/Overleaf-Templates-IIITA/assets/97454406/3ae30bdc-4081-458b-ba53-c12c041473d8">
+</p>
+
 Welcome to the Overleaf Templates repository for IIIT Allahabad students! This repository is a centralized location where students can access various templates to kickstart their LaTeX projects on Overleaf.
 
 ## How to Use
