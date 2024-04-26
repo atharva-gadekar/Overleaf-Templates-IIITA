@@ -25,7 +25,18 @@ To utilize the templates provided in this repository, follow these simple steps:
 5. **Check Configurations** : If you encounter an error, click on menu and make sure that the compiler vesion is : pdfLaTeX and TeX Live Version is 2021 (Legacy) as shown in the below image
 
 ![image](https://github.com/atharva-gadekar/Overleaf-Templates-IIITA/assets/97454406/a722023c-68d3-4e34-9e8e-a0d83deac6a0)
- 
+
+
+## Template Previews
+
+| Template Name             | URL                                                |
+|---------------------------|----------------------------------------------------|
+| Single Col - Large Margin| [View Template](https://www.overleaf.com/read/yzxfnyzfvnbx#324be0) |
+| Cover Letter              | [View Template](https://www.overleaf.com/read/prgsdpqjbbmj#fcf5d4)   |
+| Resume                    | [View Template](https://www.overleaf.com/read/qyhmqmhbzgyk#f96159)   |
+| Single Col - Small Margin | [View Template](https://www.overleaf.com/read/synxzwxkngmk#dba293) |
+| IEEE Report               | [View Template](https://www.overleaf.com/read/cksjsmzbfjfr#5ac9f0)  |
+
 
 ## Contribution Guidelines
 
@@ -33,6 +44,7 @@ We welcome contributions from the IIIT Allahabad community to enrich our reposit
 
 - Ensure that the template is relevant to academic or research purposes.
 - Include a brief description of the template and its intended use in the pull request.
+- Enable link sharing on the template and add the view link in the template previews table.
 
 Let's collaborate to make this repository a valuable resource for all IIIT Allahabad students!
 
