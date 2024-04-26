@@ -18,6 +18,10 @@ To utilize the templates provided in this repository, follow these simple steps:
    - Upload the previously downloaded zip file.
 
 4. **Start Working**: After uploading the template to Overleaf, you're all set to start editing and customizing it according to your requirements.
+5. **Check Configurations** : If you encounter an error, click on menu and make sure that the compiler vesion is : pdfLaTeX and TeX Live Version is 2021 (Legacy) as shown in the below image
+
+![image](https://github.com/atharva-gadekar/Overleaf-Templates-IIITA/assets/97454406/a722023c-68d3-4e34-9e8e-a0d83deac6a0)
+ 
 
 ## Contribution Guidelines
 
