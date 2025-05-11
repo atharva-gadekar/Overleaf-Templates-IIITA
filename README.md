@@ -1,3 +1,5 @@
+> I will be graduating in June 2025. I request my juniors to keep adding templates which you think can be useful to this repo. I would be more than happy to approve your PRs. Also, if you need any help, please don't hesistate to reach out to me at atharvagadekar.it@gmail.com or at my [LinkedIn](https://www.linkedin.com/in/atharva-gadekar-0baa11228/)
+
 # Overleaf Templates for IIIT Allahabad Students
 
 <p align="center">
@@ -37,6 +39,9 @@ To utilize the templates provided in this repository, follow these simple steps:
 | Single Col - Small Margin | [View Template](https://www.overleaf.com/read/synxzwxkngmk#dba293) |
 | IEEE Report               | [View Template](https://www.overleaf.com/read/cksjsmzbfjfr#5ac9f0)  |
 | Final Year Thesis         | [View Template](https://www.overleaf.com/read/vyqmxtthvzss#e182ac)  |
+| IEEE Report               | [Google Doc Template](https://docs.google.com/document/d/17pMQFkwxVnJm4r7eBnEDi3ltNltb5VThIeEhi2wy4a4/edit?usp=sharing)  |
+| Single Col - Large Margin | [Google Doc Template](https://docs.google.com/document/d/15Y1TG9cjZfFfh6bDntuFjTjayayzq1qx8ZakpDWSSUU/edit?usp=sharing)  |
+
 
 
 
