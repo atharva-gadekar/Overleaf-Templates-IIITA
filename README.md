@@ -36,6 +36,8 @@ To utilize the templates provided in this repository, follow these simple steps:
 | Resume                    | [View Template](https://www.overleaf.com/read/qyhmqmhbzgyk#f96159)   |
 | Single Col - Small Margin | [View Template](https://www.overleaf.com/read/synxzwxkngmk#dba293) |
 | IEEE Report               | [View Template](https://www.overleaf.com/read/cksjsmzbfjfr#5ac9f0)  |
+| Final Year Thesis         | [View Template](https://www.overleaf.com/read/vyqmxtthvzss#e182ac)  |
+
 
 
 ## Contribution Guidelines
