@@ -28,7 +28,6 @@ To utilize the templates provided in this repository, follow these simple steps:
 
 ![image](https://github.com/atharva-gadekar/Overleaf-Templates-IIITA/assets/97454406/a722023c-68d3-4e34-9e8e-a0d83deac6a0)
 
----
 
 ## 🎓 Template Previews
 
@@ -40,7 +39,6 @@ To utilize the templates provided in this repository, follow these simple steps:
 | Resume-single-col         | [View Template](https://www.overleaf.com/read/qyhmqmhbzgyk#f96159)   |
 | Resume-double-col         | [View Template](https://www.overleaf.com/read/gkmwrgdghzmy#95adc4)   |
 
----
 
 ### 📄 Report & Thesis Templates
 
@@ -52,8 +50,6 @@ To utilize the templates provided in this repository, follow these simple steps:
 | Final Year Thesis         | [View Template](https://www.overleaf.com/read/vyqmxtthvzss#e182ac)  |
 | IEEE Report (Google Doc)  | [Google Doc Template](https://docs.google.com/document/d/17pMQFkwxVnJm4r7eBnEDi3ltNltb5VThIeEhi2wy4a4/edit?usp=sharing)  |
 | Single Col - Large Margin (Google Doc) | [Google Doc Template](https://docs.google.com/document/d/15Y1TG9cjZfFfh6bDntuFjTjayayzq1qx8ZakpDWSSUU/edit?usp=sharing)  |
-
----
 
 
 ## Contribution Guidelines
