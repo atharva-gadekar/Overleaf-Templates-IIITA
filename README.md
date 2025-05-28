@@ -29,20 +29,27 @@ To utilize the templates provided in this repository, follow these simple steps:
 ![image](https://github.com/atharva-gadekar/Overleaf-Templates-IIITA/assets/97454406/a722023c-68d3-4e34-9e8e-a0d83deac6a0)
 
 
-## Template Previews
+## 🎓 Template Previews
+
+### 📝 Resume Templates
 
 | Template Name             | URL                                                |
 |---------------------------|----------------------------------------------------|
-| Single Col - Large Margin| [View Template](https://www.overleaf.com/read/yzxfnyzfvnbx#324be0) |
 | Cover Letter              | [View Template](https://www.overleaf.com/read/prgsdpqjbbmj#fcf5d4)   |
-| Resume                    | [View Template](https://www.overleaf.com/read/qyhmqmhbzgyk#f96159)   |
+| Resume-single-col         | [View Template](https://www.overleaf.com/read/qyhmqmhbzgyk#f96159)   |
+| Resume-double-col         | [View Template](https://www.overleaf.com/read/gkmwrgdghzmy#95adc4)   |
+
+
+### 📄 Report & Thesis Templates
+
+| Template Name             | URL                                                |
+|---------------------------|----------------------------------------------------|
+| Single Col - Large Margin | [View Template](https://www.overleaf.com/read/yzxfnyzfvnbx#324be0) |
 | Single Col - Small Margin | [View Template](https://www.overleaf.com/read/synxzwxkngmk#dba293) |
-| IEEE Report               | [View Template](https://www.overleaf.com/read/cksjsmzbfjfr#5ac9f0)  |
+| IEEE Report (Overleaf)    | [View Template](https://www.overleaf.com/read/cksjsmzbfjfr#5ac9f0)  |
 | Final Year Thesis         | [View Template](https://www.overleaf.com/read/vyqmxtthvzss#e182ac)  |
-| IEEE Report               | [Google Doc Template](https://docs.google.com/document/d/17pMQFkwxVnJm4r7eBnEDi3ltNltb5VThIeEhi2wy4a4/edit?usp=sharing)  |
-| Single Col - Large Margin | [Google Doc Template](https://docs.google.com/document/d/15Y1TG9cjZfFfh6bDntuFjTjayayzq1qx8ZakpDWSSUU/edit?usp=sharing)  |
-
-
+| IEEE Report (Google Doc)  | [Google Doc Template](https://docs.google.com/document/d/17pMQFkwxVnJm4r7eBnEDi3ltNltb5VThIeEhi2wy4a4/edit?usp=sharing)  |
+| Single Col - Large Margin (Google Doc) | [Google Doc Template](https://docs.google.com/document/d/15Y1TG9cjZfFfh6bDntuFjTjayayzq1qx8ZakpDWSSUU/edit?usp=sharing)  |
 
 
 ## Contribution Guidelines
